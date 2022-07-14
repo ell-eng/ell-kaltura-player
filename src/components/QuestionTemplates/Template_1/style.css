@@ -1,0 +1,10 @@
+.button-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.button-container div {
+    margin-top: 20px;
+    background-color: blue;
+    cursor: pointer;
+}
